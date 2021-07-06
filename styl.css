@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+}
+.menu{
+    float: left;
+    list-style: none;
+    color: white;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10px;
+}
+.links{
+    display: inline;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+#img1{
+    width: 100%;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
